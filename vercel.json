@@ -1,9 +1,8 @@
 {
-    "public": "./",
     "rewrites": [
         {
             "source": "/",
-            "destination": "/userinfo.html"
+            "destination": "/register.html"
         }
     ]
 }

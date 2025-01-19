@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "/register.html"
+            "destination": "/userinfo.html"
         }
     ]
 }
